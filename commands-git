@@ -3,3 +3,5 @@ git add
 git push
 git commit
 git pull
+git branch
+git checkout
